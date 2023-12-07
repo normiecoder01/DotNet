@@ -1,0 +1,15 @@
+D:\149_.Net\Codes\Assignment2\Inheritence\bin\Debug\net7.0\Inheritence.exe
+D:\149_.Net\Codes\Assignment2\Inheritence\bin\Debug\net7.0\Inheritence.deps.json
+D:\149_.Net\Codes\Assignment2\Inheritence\bin\Debug\net7.0\Inheritence.runtimeconfig.json
+D:\149_.Net\Codes\Assignment2\Inheritence\bin\Debug\net7.0\Inheritence.dll
+D:\149_.Net\Codes\Assignment2\Inheritence\bin\Debug\net7.0\Inheritence.pdb
+D:\149_.Net\Codes\Assignment2\Inheritence\obj\Debug\net7.0\Inheritence.csproj.AssemblyReference.cache
+D:\149_.Net\Codes\Assignment2\Inheritence\obj\Debug\net7.0\Inheritence.GeneratedMSBuildEditorConfig.editorconfig
+D:\149_.Net\Codes\Assignment2\Inheritence\obj\Debug\net7.0\Inheritence.AssemblyInfoInputs.cache
+D:\149_.Net\Codes\Assignment2\Inheritence\obj\Debug\net7.0\Inheritence.AssemblyInfo.cs
+D:\149_.Net\Codes\Assignment2\Inheritence\obj\Debug\net7.0\Inheritence.csproj.CoreCompileInputs.cache
+D:\149_.Net\Codes\Assignment2\Inheritence\obj\Debug\net7.0\Inheritence.dll
+D:\149_.Net\Codes\Assignment2\Inheritence\obj\Debug\net7.0\refint\Inheritence.dll
+D:\149_.Net\Codes\Assignment2\Inheritence\obj\Debug\net7.0\Inheritence.pdb
+D:\149_.Net\Codes\Assignment2\Inheritence\obj\Debug\net7.0\Inheritence.genruntimeconfig.cache
+D:\149_.Net\Codes\Assignment2\Inheritence\obj\Debug\net7.0\ref\Inheritence.dll
